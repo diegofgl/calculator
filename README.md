@@ -1,4 +1,4 @@
-# Calculator
+# 📱Calculator 
 # Réplica do aplicativo "Calculadora"
 # Sera Compatível com iPhone e iPad
 # Implementei arquitetura MVC
