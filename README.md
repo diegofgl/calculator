@@ -4,7 +4,7 @@
 
 Réplica do aplicativo "Calculadora"
 
-Sera Compatível com iPhone e iPad
+Compatível com iPhone e iPad
 
 Implementei arquitetura MVC
 
@@ -14,6 +14,5 @@ Utilizei boas práticas de programação
 
 Usei toda a lógica de aplicação para que o aplicativo funcione mais próximo da calculadora incluida no iOS.
 
-<div alinn="center">
-<Img src="" /></div>
+
 
